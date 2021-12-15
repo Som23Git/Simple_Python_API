@@ -26,6 +26,12 @@ tasks = [
         'title': u'Buy Electronics',
         'description': u'Get new electronics from the web',
         'done': False
+    },
+    {
+        'id': 5,
+        'title': u'Database',
+        'description': u'Update a New Database',
+        'done': False
     }
 ]
 
